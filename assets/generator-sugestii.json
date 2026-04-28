@@ -2,7 +2,7 @@
   "basic": [
     {
       "id": "miejsce",
-      "label": "Miejsce",
+      "label": "📍 Miejsce",
       "items": [
         "Budka z kebabem",
         "Przychodnia",
@@ -58,7 +58,7 @@
     },
     {
       "id": "przedmiot",
-      "label": "Przedmiot",
+      "label": "📦 Przedmiot",
       "items": [
         "Długopis",
         "Parasolka",
@@ -114,7 +114,7 @@
     },
     {
       "id": "relacja",
-      "label": "Relacja",
+      "label": "🤝 Relacja",
       "items": [
         "Szef – pracownik",
         "Nauczyciel – uczeń",
@@ -170,7 +170,7 @@
     },
     {
       "id": "cel-postaci",
-      "label": "Cel postaci",
+      "label": "🎯 Cel postaci",
       "items": [
         "Chce zdobyć zaufanie",
         "Chce ukryć prawdę",
@@ -226,7 +226,7 @@
     },
     {
       "id": "problem",
-      "label": "Problem",
+      "label": "⚡ Problem",
       "items": [
         "Brakuje czasu",
         "Brakuje pieniędzy",
@@ -284,7 +284,7 @@
   "additional": [
     {
       "id": "emocja",
-      "label": "Emocja",
+      "label": "🎭 Emocja",
       "items": [
         "Radość",
         "Smutek",
@@ -338,7 +338,7 @@
     },
     {
       "id": "sekret",
-      "label": "Sekret",
+      "label": "🤫 Sekret",
       "items": [
         "Ukrywa prawdziwą tożsamość",
         "Ma romans",
@@ -395,7 +395,7 @@
   "advanced": [
     {
       "id": "ograniczenia",
-      "label": "Ograniczenia",
+      "label": "🚧 Ograniczenia",
       "items": [
         "Nie można zadawać pytań",
         "Nie można używać słowa „nie”",
@@ -413,7 +413,7 @@
     },
     {
       "id": "gatunek",
-      "label": "Gatunek",
+      "label": "🎬 Gatunek",
       "items": [
         "Dramat",
         "Komedia romantyczna",
@@ -449,7 +449,7 @@
     },
     {
       "id": "czasy-epoka",
-      "label": "Czasy/epoka",
+      "label": "🕰️ Czasy/epoka",
       "items": [
         "Prehistoria",
         "Starożytność",

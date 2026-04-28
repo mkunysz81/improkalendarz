@@ -2221,3 +2221,61 @@ Events section
   color: #555;
   line-height: 1.75;
 }
+
+.generator-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.generator-section h2 {
+  margin-bottom: 18px;
+}
+
+.generator-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.generator-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.generator-card__title {
+  margin: 0;
+  font-size: 22px;
+  color: #5328ab;
+}
+
+.generator-card__result {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #222;
+  min-height: 60px;
+}
+
+.generator-card__button {
+  border: 0;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.generator-error {
+  max-width: 1100px;
+  margin: 20px auto 0;
+  padding: 0 16px;
+}
+
+@media (max-width: 991px) {
+  .generator-grid {
+    grid-template-columns: 1fr;
+  }
+}

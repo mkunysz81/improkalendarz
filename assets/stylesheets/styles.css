@@ -2266,6 +2266,10 @@ Events section
   border: 0;
   cursor: pointer;
   align-self: flex-start;
+  background: #5b3bb5;
+  color: #fff;
+  padding: 10px 16px;
+  margin-top: 4px;
 }
 
 .generator-error {

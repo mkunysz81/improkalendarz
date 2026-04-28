@@ -70,7 +70,9 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    fetch("/assets/generator-sugestii.json")
+    const dataUrl = new URL("assets/generator-sugestii.json", document.baseURI);
+
+    fetch(dataUrl, { cache: "no-store" })
       .then(function (response) {
         if (!response.ok) {
           throw new Error("Nie udało się wczytać danych generatora.");

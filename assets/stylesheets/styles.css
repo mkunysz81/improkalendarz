@@ -149,10 +149,10 @@ section {
   transition: all 0.4s;
 }
 
-.scroll-top i {
+.scroll-top .scroll-top-icon {
   font-size: 24px;
   color: #fff;
-  line-height: 0;
+  line-height: 1;
 }
 
 .scroll-top:hover {
@@ -555,7 +555,7 @@ section {
     color: rgba(0, 0, 0, 0.6);
     font-size: 28px;
     cursor: pointer;
-    line-height: 0;
+    line-height: 1;
     transition: 0.5s;
     z-index: 9999;
     margin-right: 10px;
@@ -565,7 +565,7 @@ section {
     color: #000;
     font-size: 32px;
     cursor: pointer;
-    line-height: 0;
+    line-height: 1;
     transition: 0.5s;
     position: fixed;
     right: 20px;

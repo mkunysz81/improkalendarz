@@ -362,6 +362,29 @@ section {
     line-height: 0;
     margin-left: 5px;
   }
+  .navbar a.event-card__cta,
+  .navbar a.event-card__cta:focus {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: #FF8427;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .navbar>ul>li>a.event-card__cta:before,
+  .navbar a.event-card__cta:hover:before,
+  .navbar li:hover>a.event-card__cta:before,
+  .navbar .active.event-card__cta:before {
+    display: none;
+  }
+
+  .navbar a.event-card__cta:hover,
+  .navbar a.event-card__cta:focus:hover,
+  .navbar li:hover>a.event-card__cta {
+    color: #fff;
+  }
 
   .navbar>ul>li>a:before {
     content: "";
@@ -512,6 +535,23 @@ section {
     font-size: 12px;
     line-height: 0;
     margin-left: 5px;
+  }
+
+  .navbar a.event-card__cta,
+  .navbar a.event-card__cta:focus {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 999px;
+    background: #FF8427;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .navbar a.event-card__cta:hover,
+  .navbar a.event-card__cta:focus:hover,
+  .navbar li:hover>a.event-card__cta {
+    color: #fff;
   }
 
   .navbar a:hover,
@@ -2266,6 +2306,10 @@ Events section
   border: 0;
   cursor: pointer;
   align-self: flex-start;
+  background: #5b3bb5;
+  color: #fff;
+  padding: 10px 16px;
+  margin-top: 4px;
 }
 
 .generator-error {

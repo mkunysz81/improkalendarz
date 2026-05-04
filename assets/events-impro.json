@@ -69,7 +69,7 @@
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/imprezy/190925/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
-    "image": "assets/images/events/impro-flow.webp",
+    "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
   {
@@ -105,7 +105,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204225/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/listy-do-bravo.webp",
     "active": true
   },
   {
@@ -165,7 +165,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/200679/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
-    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
+    "image": "assets/images/events/jesiotr-theofish.webp",
     "active": true
   },
   {
@@ -201,7 +201,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204226/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/no-i-fajnie.webp",
     "active": true
   },
   {
@@ -213,7 +213,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204227/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/znajdz-x.webp",
     "active": true
   },
   {
@@ -225,7 +225,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204228/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/ten-koles-to-redflag.webp",
     "active": true
   },
   {
@@ -249,7 +249,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204229/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/nie-mow-nikomu.webp",
     "active": true
   },
   {
@@ -273,7 +273,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204232/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/tinder-impro-party.webp",
     "active": true
   },
   {
@@ -285,7 +285,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204235/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
+    "image": "assets/images/events/wassup-impro.webp",
     "active": true
   },
   {
@@ -514,7 +514,7 @@
     "venue": "Lastriko",
     "city": "Kraków",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/improkryminal.webp",
+    "image": "assets/images/events/od-biedy.webp",
     "active": true
   },
   {
@@ -526,7 +526,7 @@
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/impro-flow.webp",
+    "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
   {
@@ -586,7 +586,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/jesiotr-theofish.webp",
+    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
   {
@@ -767,7 +767,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/jesiotr-theofish.webp",
+    "image": "assets/images/events/zlota-rybka-jesiotr.webp",
     "active": true
   },
   {
@@ -911,7 +911,7 @@
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/impro-flow.webp",
+    "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
   {
@@ -1079,7 +1079,7 @@
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/impro-flow.webp",
+    "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
   {
@@ -1115,7 +1115,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/jesiotr-theofish.webp",
+    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
   {

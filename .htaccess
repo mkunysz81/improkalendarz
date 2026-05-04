@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Zawsze HTTPS + zawsze www
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} !^www\.improkalendarz\.pl$ [NC]
+RewriteRule ^(.*)$ https://www.improkalendarz.pl/$1 [R=301,L]
+
+SetEnv PHP_VER 5_3
+SetEnv REGISTER_GLOBALS 0

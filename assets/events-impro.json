@@ -1,29 +1,5 @@
 [
   {
-    "id": "klub-komediowy-2026-05-04-19-00-warszawa",
-    "title": "Klub Komediowy",
-    "subtitle": "Randka w ciemno na Gwieździe Śmierci (czyli jak znaleźć miłość w hełmie szturmowca) - impro na dzień",
-    "date": "2026-05-04",
-    "time": "19:00",
-    "venue": "Klub Komediowy",
-    "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204056/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/po-la-la-land.webp",
-    "active": true
-  },
-  {
-    "id": "skazani-na-tinder-2026-05-04-20-00-gdansk",
-    "title": "Skazani na Tinder",
-    "subtitle": "komedia improwizowana",
-    "date": "2026-05-04",
-    "time": "20:00",
-    "venue": "Pub 107",
-    "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/202258/Gda%C5%84sk/Skazani%2Bna%2BTinder/",
-    "image": "assets/images/events/skazani-na-tinder.webp",
-    "active": true
-  },
-  {
     "id": "la-vida-impro-2026-05-05-19-00-poznan",
     "title": "La Vida Impro",
     "subtitle": "La Vida Impro | Improkadabra #2",
@@ -105,7 +81,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204225/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/listy-do-bravo.webp",
+    "image": "assets/images/events/jak-osiagnac-sukces.webp",
     "active": true
   },
   {
@@ -129,7 +105,7 @@
     "venue": "Dom Zarazy",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/imprezy/203919/Gda%C5%84sk/Pro%2BForma/",
-    "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
+    "image": "assets/images/events/nie-umiem-odpoczywac-komediowy-spektakl-improwizowany.webp",
     "active": true
   },
   {
@@ -165,7 +141,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/200679/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
-    "image": "assets/images/events/jesiotr-theofish.webp",
+    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
   {
@@ -201,7 +177,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204226/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/no-i-fajnie.webp",
+    "image": "assets/images/events/za-stara-na-tiktok.webp",
     "active": true
   },
   {
@@ -213,7 +189,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204227/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/znajdz-x.webp",
+    "image": "assets/images/events/jak-osiagnac-sukces.webp",
     "active": true
   },
   {
@@ -225,7 +201,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204228/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/ten-koles-to-redflag.webp",
+    "image": "assets/images/events/opowiesci-po-prosecco.webp",
     "active": true
   },
   {
@@ -249,7 +225,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204229/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/nie-mow-nikomu.webp",
+    "image": "assets/images/events/moj-kraj-taki-piekny",
     "active": true
   },
   {
@@ -273,7 +249,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204232/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/tinder-impro-party.webp",
+    "image": "assets/images/events/moja-mama-nie-dawala-tyle-maggi.webp",
     "active": true
   },
   {
@@ -285,7 +261,7 @@
     "venue": "Klub Komediowy",
     "city": "Warszawa",
     "url": "https://www.kupbilecik.pl/imprezy/204235/Warszawa/Klub%2BKomediowy/",
-    "image": "assets/images/events/wassup-impro.webp",
+    "image": "assets/images/events/o-czym-mysla-mezczyzni.webp",
     "active": true
   },
   {
@@ -308,8 +284,8 @@
     "time": "18:00",
     "venue": "Chicago Jazz",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
+    "url": "https://www.kupbilecik.pl/imprezy/204037/Krak%C3%B3w/Grupa+pRYMasort/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -320,8 +296,8 @@
     "time": "18:00",
     "venue": "My pod sceną",
     "city": "Poznań",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
+    "url": "https://www.kupbilecik.pl/imprezy/199852/Pozna%C5%84/ToTo+Impro/",
+    "image": "assets/images/events/toto-impro.webp",
     "active": true
   },
   {
@@ -332,8 +308,8 @@
     "time": "19:00",
     "venue": "Czeski Film",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/zaufaj-mi-zazarci.webp",
+    "url": "https://www.kupbilecik.pl/imprezy/202903/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
+    "image": "assets/images/events/zakulisami.webp",
     "active": true
   },
   {

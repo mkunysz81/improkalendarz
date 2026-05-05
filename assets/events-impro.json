@@ -320,7 +320,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200235/%C5%81%C3%B3d%C5%BA/Impro%2BAtak/",
     "image": "assets/images/events/impro-atak.webp",
     "active": true
   },
@@ -345,7 +345,7 @@
     "time": "18:00",
     "venue": "Forum Horyzonty",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201943/Krak%C3%B3w/PCHAMY%2B-%2BPolski%2BCharytatywny%2BMaraton%2BYmpro/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
     "active": true
   },
@@ -369,7 +369,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/198511/Krak%C3%B3w/Miejsce%2BKomedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -393,7 +393,7 @@
     "time": "14:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189579/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-impro.webp",
     "active": true
   },
@@ -405,7 +405,7 @@
     "time": "16:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189614/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
     "image": "assets/images/events/epickie-warsztaty.webp",
     "active": true
   },
@@ -417,7 +417,7 @@
     "time": "17:00",
     "venue": "Forum Horyzonty",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201944/Krak%C3%B3w/PCHAMY%2B-%2BPolski%2BCharytatywny%2BMaraton%2BYmpro/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
     "active": true
   },
@@ -441,7 +441,7 @@
     "time": "16:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200237/%C5%81%C3%B3d%C5%BA/Wymy%C5%9Blanka/",
     "image": "assets/images/events/wymyslanka.webp",
     "active": true
   },
@@ -477,7 +477,7 @@
     "time": "19:00",
     "venue": "Teatr Variété",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/195142/Krak%C3%B3w/Grupa%2BAD%2BHOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -513,7 +513,7 @@
     "time": "19:00",
     "venue": "BaRock Club",
     "city": "Poznań",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/198468/Pozna%C5%84/Grupa%2BAD%2BHOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -525,7 +525,7 @@
     "time": "20:00",
     "venue": "Arcade Bee",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/204357/Wroc%C5%82aw/Za%C5%BBarci%2B-%2Bkomedia%2Bimpro%C2%ADwizo%C2%ADwana/",
     "image": "assets/images/events/zabiedni.webp",
     "active": true
   },
@@ -561,7 +561,7 @@
     "time": "20:00",
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200866/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
     "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
@@ -573,7 +573,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200239/%C5%81%C3%B3d%C5%BA/Lokatorzy%2Bz%2BZa%C5%9Bwiat%C3%B3w/",
     "image": "assets/images/events/lokatorzy-z-zaswiatow.webp",
     "active": true
   },
@@ -694,7 +694,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200242/%C5%81%C3%B3d%C5%BA/Impro%2BSwing%21%2BCzyli%2Bpara%2Bna%2Bparze/",
     "image": "assets/images/events/impro-swing.webp",
     "active": true
   },
@@ -1102,7 +1102,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202331/%C5%81%C3%B3d%C5%BA/Lokatorzy%2Bz%2BZa%C5%9Bwiat%C3%B3w/",
     "image": "assets/images/events/lokatorzy-z-zaswiatow.webp",
     "active": true
   },

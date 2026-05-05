@@ -7,8 +7,20 @@
     "time": "19:00",
     "venue": "Pub Pod Dwoma Miotłami",
     "city": "Poznań",
-    "url": "https://www.kupbilecik.pl/imprezy/203675/Pozna%C5%84/La%2BVida%2BImpro/",
+    "url": "https://www.kupbilecik.pl/imprezy/203675/Pozna%C5%84/La+Vida+Impro/",
     "image": "assets/images/events/la-vida-impro.webp",
+    "active": true
+  },
+  {
+    "id": "znajdz-x-komedia-niewiadoma-2026-05-05-19-30-opole",
+    "title": "Znajdź X - komedia niewiadoma",
+    "subtitle": "Na Dwoje Babka Wróżyła - komedia improwizowana",
+    "date": "2026-05-05",
+    "time": "19:30",
+    "venue": "Vinoteka Opole",
+    "city": "Opole",
+    "url": "https://www.kupbilecik.pl/imprezy/201960/Opole/Znajd%C5%BA+X+-+komedia+niewiadoma/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -19,10 +31,22 @@
     "time": "19:00",
     "venue": "Forum Horyzonty",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/202179/Krak%C3%B3w/Micha%C5%82%2BLeja%2B%22Z%2Bkartki%22/",
+    "url": "https://www.kupbilecik.pl/imprezy/202179/Krak%C3%B3w/Micha%C5%82+Leja+%22Z+kartki%22/",
     "image": "assets/images/events/z-kartki.webp",
     "active": true,
     "sold_out": true
+  },
+  {
+    "id": "grupa-anyway-2026-05-06-19-00-rzeszow",
+    "title": "Grupa Anyway",
+    "subtitle": "Wieczór komedii improwizowanej",
+    "date": "2026-05-06",
+    "time": "19:00",
+    "venue": "Kino za Rogiem Café - Piętro za Rogiem",
+    "city": "Rzeszów",
+    "url": "https://www.kupbilecik.pl/imprezy/201686/Rzesz%C3%B3w/Grupa+Anyway/",
+    "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
   },
   {
     "id": "poza-zartem-2026-05-06-19-30-krakow",
@@ -32,7 +56,7 @@
     "time": "19:30",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/201837/Krak%C3%B3w/poza%2B%C5%BCartem/",
+    "url": "https://www.kupbilecik.pl/imprezy/201837/Krak%C3%B3w/poza+%C5%BCartem/",
     "image": "assets/images/events/poza-zartem.webp",
     "active": true
   },
@@ -44,7 +68,7 @@
     "time": "18:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/190925/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
+    "url": "https://www.kupbilecik.pl/imprezy/190925/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
@@ -68,7 +92,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/199856/%C5%81%C3%B3d%C5%BA/IMPRO%21%2BKamera...%2Bakcja%21/",
+    "url": "https://www.kupbilecik.pl/imprezy/199856/%C5%81%C3%B3d%C5%BA/IMPRO%21+Kamera...+akcja%21/",
     "image": "assets/images/events/impro-kamera-akcja.webp",
     "active": true
   },
@@ -80,7 +104,7 @@
     "time": "19:30",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204225/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204225/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/jak-osiagnac-sukces.webp",
     "active": true
   },
@@ -92,7 +116,7 @@
     "time": "20:00",
     "venue": "Arcade Bee",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/202878/Wroc%C5%82aw/Za%C5%BBarci%2B-%2Bkomedia%2Bimpro%C2%ADwizo%C2%ADwana/",
+    "url": "https://www.kupbilecik.pl/imprezy/202878/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
     "image": "assets/images/events/zaliczone-zazarci.webp",
     "active": true
   },
@@ -104,7 +128,7 @@
     "time": "18:00",
     "venue": "Dom Zarazy",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/203919/Gda%C5%84sk/Pro%2BForma/",
+    "url": "https://www.kupbilecik.pl/imprezy/203919/Gda%C5%84sk/Pro+Forma/",
     "image": "assets/images/events/nie-umiem-odpoczywac-komediowy-spektakl-improwizowany.webp",
     "active": true
   },
@@ -116,7 +140,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/197875/Krak%C3%B3w/Miejsce%2BKomedii/",
+    "url": "https://www.kupbilecik.pl/imprezy/197875/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -128,7 +152,7 @@
     "time": "20:00",
     "venue": "Dom Zarazy",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/202781/Gda%C5%84sk/Mi%C4%99dzymiastowa%2BNie%2C%2Bto%2Bmi%C4%99dzyludzka%21%2B%7C%2BSpektakl%2BImprowizowany/",
+    "url": "https://www.kupbilecik.pl/imprezy/202781/Gda%C5%84sk/Mi%C4%99dzymiastowa+Nie%2C+to+mi%C4%99dzyludzka%21+%7C+Spektakl+Improwizowany/",
     "image": "assets/images/events/miedzymiastowa-nie.webp",
     "active": true
   },
@@ -140,7 +164,7 @@
     "time": "20:00",
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/200679/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
+    "url": "https://www.kupbilecik.pl/imprezy/200679/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
     "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
@@ -152,7 +176,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/200028/%C5%81%C3%B3d%C5%BA/HOT%C3%A9LOVE%2BStory%2B-%2Bkomedia%2Bromantyczna/",
+    "url": "https://www.kupbilecik.pl/imprezy/200028/%C5%81%C3%B3d%C5%BA/HOT%C3%A9LOVE+Story+-+komedia+romantyczna/",
     "image": "assets/images/events/hotelove-story.webp",
     "active": true
   },
@@ -164,7 +188,7 @@
     "time": "21:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/197875/Krak%C3%B3w/Miejsce%2BKomedii/",
+    "url": "https://www.kupbilecik.pl/imprezy/197876/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -176,7 +200,7 @@
     "time": "21:15",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204226/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204226/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/za-stara-na-tiktok.webp",
     "active": true
   },
@@ -188,7 +212,7 @@
     "time": "17:00",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204227/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204227/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/jak-osiagnac-sukces.webp",
     "active": true
   },
@@ -200,7 +224,7 @@
     "time": "17:15",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204228/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204228/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/opowiesci-po-prosecco.webp",
     "active": true
   },
@@ -212,7 +236,7 @@
     "time": "19:00",
     "venue": "Szkoła Muzyczna TONY",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/202287/Wroc%C5%82aw/%22Do%2Bbigosu%21%22%2Bprezentuj%C4%85%3A/",
+    "url": "https://www.kupbilecik.pl/imprezy/202287/Wroc%C5%82aw/%22Do+bigosu%21%22+prezentuj%C4%85%3A/",
     "image": "assets/images/events/do-bigosu.webp",
     "active": true
   },
@@ -224,7 +248,7 @@
     "time": "19:30",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204229/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204229/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/moj-kraj-taki-piekny",
     "active": true
   },
@@ -236,7 +260,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/200233/%C5%81%C3%B3d%C5%BA/Peron%2C%2Bczyli%2Btam%2Bi%2Bz%2Bpowrotem/",
+    "url": "https://www.kupbilecik.pl/imprezy/200233/%C5%81%C3%B3d%C5%BA/Peron%2C+czyli+tam+i+z+powrotem/",
     "image": "assets/images/events/peron.webp",
     "active": true
   },
@@ -248,7 +272,7 @@
     "time": "20:15",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204232/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204232/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/moja-mama-nie-dawala-tyle-maggi.webp",
     "active": true
   },
@@ -260,7 +284,7 @@
     "time": "21:45",
     "venue": "Klub Komediowy",
     "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/imprezy/204235/Warszawa/Klub%2BKomediowy/",
+    "url": "https://www.kupbilecik.pl/imprezy/204235/Warszawa/Klub+Komediowy/",
     "image": "assets/images/events/o-czym-mysla-mezczyzni.webp",
     "active": true
   },
@@ -320,7 +344,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/200235/%C5%81%C3%B3d%C5%BA/Impro%2BAtak/",
+    "url": "https://www.kupbilecik.pl/imprezy/200235/%C5%81%C3%B3d%C5%BA/Impro+Atak/",
     "image": "assets/images/events/impro-atak.webp",
     "active": true
   },
@@ -332,10 +356,22 @@
     "time": "19:00",
     "venue": "Klub Muzyczny Parlament",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/203981/Gda%C5%84sk/Dzikie+W%C4%99%C5%BCe/",
     "image": "assets/images/events/dzikie-weze.webp",
     "active": true,
     "sold_out": true
+  },
+  {
+    "id": "rozmowa-dyskwalifikacyjna-2026-05-14-19-00-warszawa",
+    "title": "Rozmowa Dyskwalifikacyjna",
+    "subtitle": "improwizowana walka o pracę",
+    "date": "2026-05-14",
+    "time": "19:00",
+    "venue": "Resort Komedii",
+    "city": "Warszawa",
+    "url": "https://www.kupbilecik.pl/imprezy/204619/Warszawa/Rozmowa+Dyskwalifikacyjna/",
+    "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
   },
   {
     "id": "pchamy-polski-charytatywny-maraton-ympro-2026-05-15-18-00-krakow",
@@ -345,7 +381,7 @@
     "time": "18:00",
     "venue": "Forum Horyzonty",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/201943/Krak%C3%B3w/PCHAMY%2B-%2BPolski%2BCharytatywny%2BMaraton%2BYmpro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201943/Krak%C3%B3w/PCHAMY+-+Polski+Charytatywny+Maraton+Ympro/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
     "active": true
   },
@@ -357,7 +393,7 @@
     "time": "19:00",
     "venue": "Scena Prym Art",
     "city": "Katowice",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201971/Katowice/iGRAszki/",
     "image": "assets/images/events/wiosenny-spektakl.webp",
     "active": true
   },
@@ -369,8 +405,20 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/198511/Krak%C3%B3w/Miejsce%2BKomedii/",
+    "url": "https://www.kupbilecik.pl/imprezy/198511/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
+    "active": true
+  },
+  {
+    "id": "komedia-z-ikra-2026-05-15-20-00-wroclaw",
+    "title": "Komedia z Ikrą",
+    "subtitle": "Na samym dnie - komedia inspirowana Waszymi sekretami",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "venue": "Klub Wędrówki",
+    "city": "Wrocław",
+    "url": "https://www.kupbilecik.pl/imprezy/200865/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
+    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
   {
@@ -381,8 +429,20 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200236/%C5%81%C3%B3d%C5%BA/Wy%C5%9Bcigi+i+po%C5%9Bcigi%2C+czyli+impro+bez+hamulc%C3%B3w/",
     "image": "assets/images/events/wyscigi-i-poscigi.webp",
+    "active": true
+  },
+  {
+    "id": "ireneusz-krosny-2026-05-16-12-00-olsztyn",
+    "title": "Ireneusz Krosny",
+    "subtitle": "Spektakl familijny pt. \"Tajemniczy Świat Pantomimy\"",
+    "date": "2026-05-16",
+    "time": "12:00",
+    "venue": "Baza",
+    "city": "Olsztyn",
+    "url": "https://www.kupbilecik.pl/imprezy/203214/Olsztyn/Ireneusz+Krosny/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -393,7 +453,7 @@
     "time": "14:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/189579/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
+    "url": "https://www.kupbilecik.pl/imprezy/189579/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-impro.webp",
     "active": true
   },
@@ -405,7 +465,7 @@
     "time": "16:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/imprezy/189614/Gda%C5%84sk/EPICkie%2BWarsztaty%2BImprowizacyjne/",
+    "url": "https://www.kupbilecik.pl/imprezy/189614/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty.webp",
     "active": true
   },
@@ -417,8 +477,20 @@
     "time": "17:00",
     "venue": "Forum Horyzonty",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/201944/Krak%C3%B3w/PCHAMY%2B-%2BPolski%2BCharytatywny%2BMaraton%2BYmpro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201944/Krak%C3%B3w/PCHAMY+-+Polski+Charytatywny+Maraton+Ympro/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
+    "active": true
+  },
+  {
+    "id": "komedia-z-ikra-2026-05-16-17-00-wroclaw",
+    "title": "Komedia z Ikrą",
+    "subtitle": "Krótkie formy - komedia improwizowana",
+    "date": "2026-05-16",
+    "time": "17:00",
+    "venue": "Klub Wędrówki",
+    "city": "Wrocław",
+    "url": "https://www.kupbilecik.pl/imprezy/204600/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
+    "image": "assets/images/events/jesiotr-theofish.webp",
     "active": true
   },
   {
@@ -429,8 +501,32 @@
     "time": "18:00",
     "venue": "Pub 103,8 FM",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/203663/Krak%C3%B3w/Byrfyfyr/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
+    "active": true
+  },
+  {
+    "id": "grupa-bez-puenty-2026-05-16-18-00-myslowice",
+    "title": "Grupa \"Bez Puenty\"",
+    "subtitle": "Bez Puenty Impro SHOW!",
+    "date": "2026-05-16",
+    "time": "18:00",
+    "venue": "Kino Znicz",
+    "city": "Mysłowice",
+    "url": "https://www.kupbilecik.pl/imprezy/203606/Mys%C5%82owice/Grupa+%22Bez+Puenty%22/",
+    "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
+  },
+  {
+    "id": "rodzinne-rewolucje-czyli-cale-zycie-z-wariatami-2026-05-16-19-30-warszawa",
+    "title": "Rodzinne rewolucje, czyli całe życie z wariatami",
+    "subtitle": "Komedia improwizowana na żywo w wykonaniu Teatru Improwizacji Afront",
+    "date": "2026-05-16",
+    "time": "19:30",
+    "venue": "Teatr Scena Lubelska",
+    "city": "Warszawa",
+    "url": "https://www.kupbilecik.pl/imprezy/204657/Warszawa/Rodzinne+rewolucje%2C+czyli+ca%C5%82e+%C5%BCycie+z+wariatami/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -453,7 +549,7 @@
     "time": "19:00",
     "venue": "Czeski Film",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202922/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
     "image": "assets/images/events/zapytani.webp",
     "active": true
   },
@@ -465,7 +561,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200238/%C5%81%C3%B3d%C5%BA/Krymina%C5%82+Improwizowany/",
     "image": "assets/images/events/improkryminal.webp",
     "active": true
   },
@@ -477,8 +573,20 @@
     "time": "19:00",
     "venue": "Teatr Variété",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/195142/Krak%C3%B3w/Grupa%2BAD%2BHOC/",
+    "url": "https://www.kupbilecik.pl/imprezy/195142/Krak%C3%B3w/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
+    "active": true
+  },
+  {
+    "id": "znajdz-x-komedia-niewiadoma-2026-05-19-19-30-opole",
+    "title": "Znajdź X - komedia niewiadoma",
+    "subtitle": "Atlas Snów - komedia improwizowana",
+    "date": "2026-05-19",
+    "time": "19:30",
+    "venue": "Vinoteka Opole",
+    "city": "Opole",
+    "url": "https://www.kupbilecik.pl/imprezy/201962/Opole/Znajd%C5%BA+X+-+komedia+niewiadoma/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -489,7 +597,7 @@
     "time": "20:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/203918/Krak%C3%B3w/Grupa+improwizowana+%22Od+Biedy%22/",
     "image": "assets/images/events/od-biedy.webp",
     "active": true
   },
@@ -501,7 +609,7 @@
     "time": "18:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/190926/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
@@ -513,7 +621,7 @@
     "time": "19:00",
     "venue": "BaRock Club",
     "city": "Poznań",
-    "url": "https://www.kupbilecik.pl/imprezy/198468/Pozna%C5%84/Grupa%2BAD%2BHOC/",
+    "url": "https://www.kupbilecik.pl/imprezy/198468/Pozna%C5%84/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -525,7 +633,7 @@
     "time": "20:00",
     "venue": "Arcade Bee",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/204357/Wroc%C5%82aw/Za%C5%BBarci%2B-%2Bkomedia%2Bimpro%C2%ADwizo%C2%ADwana/",
+    "url": "https://www.kupbilecik.pl/imprezy/204357/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
     "image": "assets/images/events/zabiedni.webp",
     "active": true
   },
@@ -537,7 +645,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197877/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -549,7 +657,7 @@
     "time": "20:00",
     "venue": "Dom Zarazy",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/203345/Gda%C5%84sk/Wampiryczna+Komedia+Impro/",
     "image": "assets/images/events/wampiryczna-komedia.webp",
     "active": true
   },
@@ -561,7 +669,7 @@
     "time": "20:00",
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/200866/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
+    "url": "https://www.kupbilecik.pl/imprezy/200866/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
     "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
     "active": true
   },
@@ -573,7 +681,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/200239/%C5%81%C3%B3d%C5%BA/Lokatorzy%2Bz%2BZa%C5%9Bwiat%C3%B3w/",
+    "url": "https://www.kupbilecik.pl/imprezy/200239/%C5%81%C3%B3d%C5%BA/Lokatorzy+z+Za%C5%9Bwiat%C3%B3w/",
     "image": "assets/images/events/lokatorzy-z-zaswiatow.webp",
     "active": true
   },
@@ -585,7 +693,7 @@
     "time": "17:00",
     "venue": "Klub Buda",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197893/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -597,7 +705,7 @@
     "time": "19:00",
     "venue": "Klub Buda",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197894/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -609,8 +717,20 @@
     "time": "19:00",
     "venue": "Teatr Bez Rzędów",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/204162/Krak%C3%B3w/Teatr+Improwizacji+Zaspani/",
     "image": "assets/images/events/zbrodnia-i-skaza-zaspani.webp",
+    "active": true
+  },
+  {
+    "id": "impro-warmia-2026-05-23-19-00-olsztyn",
+    "title": "Impro Warmia",
+    "subtitle": "wieczór komediowych improwizacji scenicznych | 01",
+    "date": "2026-05-23",
+    "time": "19:00",
+    "venue": "Baza",
+    "city": "Olsztyn",
+    "url": "https://www.kupbilecik.pl/imprezy/204621/Olsztyn/Impro+Warmia/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -621,8 +741,20 @@
     "time": "19:00",
     "venue": "RoyalPub Poznań",
     "city": "Poznań",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/204347/Pozna%C5%84/La+Vida+Impro/",
     "image": "assets/images/events/la-vida-impro.webp",
+    "active": true
+  },
+  {
+    "id": "akty-zgonu-2026-05-23-19-00-torun",
+    "title": "Akty Zgonu",
+    "subtitle": "spektakl impro",
+    "date": "2026-05-23",
+    "time": "19:00",
+    "venue": "Dwór Artusa",
+    "city": "Toruń",
+    "url": "https://www.kupbilecik.pl/imprezy/202769/Toru%C5%84/Akty+Zgonu/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -633,7 +765,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200240/%C5%81%C3%B3d%C5%BA/Gangsterskie+porachunki/",
     "image": "assets/images/events/gangsterskie-porachunki.webp",
     "active": true
   },
@@ -645,7 +777,7 @@
     "time": "20:30",
     "venue": "Pub 103,8 FM",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201917/Krak%C3%B3w/Do+bigosu%21+%26+ComedyLab+prezentuj%C4%85/",
     "image": "assets/images/events/do-bigosu.webp",
     "active": true
   },
@@ -657,7 +789,7 @@
     "time": "21:00",
     "venue": "Klub Buda",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/204429/Krak%C3%B3w/Wielkie+upadki%2C+pi%C4%99kne+katastrofy/",
     "image": "assets/images/events/przesun-w-prawo-albo-gin.webp",
     "active": true
   },
@@ -669,7 +801,7 @@
     "time": "16:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/200241/%C5%81%C3%B3d%C5%BA/Wymy%C5%9Blanka/",
     "image": "assets/images/events/wymyslanka.webp",
     "active": true
   },
@@ -681,7 +813,7 @@
     "time": "18:00",
     "venue": "Klub Zaścianek",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/183376/Krak%C3%B3w/Micha%C5%82+Leja+%22Z+kartki%22/",
     "image": "assets/images/events/z-kartki.webp",
     "active": true,
     "sold_out": true
@@ -694,8 +826,32 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/200242/%C5%81%C3%B3d%C5%BA/Impro%2BSwing%21%2BCzyli%2Bpara%2Bna%2Bparze/",
+    "url": "https://www.kupbilecik.pl/imprezy/200242/%C5%81%C3%B3d%C5%BA/Impro+Swing%21+Czyli+para+na+parze/",
     "image": "assets/images/events/impro-swing.webp",
+    "active": true
+  },
+  {
+    "id": "no-i-fajnie-teatr-impro-2026-05-24-19-07-gdansk",
+    "title": "No i Fajnie - Teatr Impro",
+    "subtitle": "Dla Mamy! - Bede Grau w GRE",
+    "date": "2026-05-24",
+    "time": "19:07",
+    "venue": "Pub 107",
+    "city": "Gdańsk",
+    "url": "https://www.kupbilecik.pl/imprezy/204450/Gda%C5%84sk/No+i+Fajnie+-+Teatr+Impro/",
+    "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
+  },
+  {
+    "id": "wassup-impro-2026-05-27-20-00-wroclaw",
+    "title": "Wassup Impro",
+    "subtitle": "JUTRO BYŁO WCZORAJ - komediowy spektakl improwizowany",
+    "date": "2026-05-27",
+    "time": "20:00",
+    "venue": "Sala Witrażowa - Stary Klasztor",
+    "city": "Wrocław",
+    "url": "https://www.kupbilecik.pl/imprezy/204611/Wroc%C5%82aw/Wassup+Impro/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -706,8 +862,32 @@
     "time": "19:00",
     "venue": "Scena Gliwicka 120",
     "city": "Katowice",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/196169/Katowice/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
+    "active": true
+  },
+  {
+    "id": "tu-lejt-szol-2026-05-28-19-00-koszalin",
+    "title": "Tu Lejt Szoł",
+    "subtitle": "Tu Lejt Szoł Vol 1",
+    "date": "2026-05-28",
+    "time": "19:00",
+    "venue": "Club 105",
+    "city": "Koszalin",
+    "url": "https://www.kupbilecik.pl/imprezy/200735/Koszalin/Tu+Lejt+Szo%C5%82/",
+    "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
+  },
+  {
+    "id": "siedem-razy-jeden-2026-05-28-19-00-zielona-gora",
+    "title": "Siedem Razy Jeden",
+    "subtitle": "120 wieczór impro",
+    "date": "2026-05-28",
+    "time": "19:00",
+    "venue": "Piwnica Artystyczna KAWON",
+    "city": "Zielona Góra",
+    "url": "https://www.kupbilecik.pl/imprezy/204500/Zielona+G%C3%B3ra/Siedem+Razy+Jeden/",
+    "image": "assets/images/events/impro-kalendarz.png",
     "active": true
   },
   {
@@ -718,7 +898,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/198512/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -730,7 +910,7 @@
     "time": "19:00",
     "venue": "Centrum Kultury Nowy Pafawag",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/196117/Wroc%C5%82aw/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -742,7 +922,7 @@
     "time": "20:00",
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202763/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
     "image": "assets/images/events/zlota-rybka-jesiotr.webp",
     "active": true
   },
@@ -754,7 +934,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201565/%C5%81%C3%B3d%C5%BA/Krymina%C5%82+Improwizowany/",
     "image": "assets/images/events/improkryminal.webp",
     "active": true
   },
@@ -766,7 +946,7 @@
     "time": "14:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189580/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-impro.webp",
     "active": true
   },
@@ -778,7 +958,7 @@
     "time": "16:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189616/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty.webp",
     "active": true
   },
@@ -790,7 +970,7 @@
     "time": "17:00",
     "venue": "Klub Buda",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/imprezy/197887/Krak%C3%B3w/Miejsce%2BKomedii/",
+    "url": "https://www.kupbilecik.pl/imprezy/197887/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -802,7 +982,7 @@
     "time": "19:00",
     "venue": "Klub Buda",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197888/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -814,7 +994,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201636/%C5%81%C3%B3d%C5%BA/IMPRO%21+Kamera...+akcja%21/",
     "image": "assets/images/events/impro-kamera-akcja.webp",
     "active": true
   },
@@ -826,7 +1006,7 @@
     "time": "16:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201637/%C5%81%C3%B3d%C5%BA/Wymy%C5%9Blanka/",
     "image": "assets/images/events/wymyslanka.webp",
     "active": true
   },
@@ -838,7 +1018,7 @@
     "time": "17:00",
     "venue": "Klub Muzyczny Parlament",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/198469/Gda%C5%84sk/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -850,7 +1030,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/201639/%C5%81%C3%B3d%C5%BA/Impro+Atak/",
     "image": "assets/images/events/impro-atak.webp",
     "active": true
   },
@@ -862,7 +1042,7 @@
     "time": "18:30",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/198470/%C5%81%C3%B3d%C5%BA/Grupa+AD+HOC/",
     "image": "assets/images/events/ad-hoc.webp",
     "active": true
   },
@@ -874,7 +1054,7 @@
     "time": "20:00",
     "venue": "Pub 107",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202260/Gda%C5%84sk/Skazani+na+Tinder/",
     "image": "assets/images/events/skazani-na-tinder.webp",
     "active": true
   },
@@ -886,7 +1066,7 @@
     "time": "18:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/190927/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
     "active": true
   },
@@ -898,7 +1078,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197878/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -910,7 +1090,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202300/%C5%81%C3%B3d%C5%BA/Seks%2C+impro%2C+rock%27n%27roll%2C+czyli+historia+pewnego+zespo%C5%82u/",
     "image": "assets/images/events/seks-impro-rock-n-roll.webp",
     "active": true
   },
@@ -922,7 +1102,7 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/202301/%C5%81%C3%B3d%C5%BA/Impro%2BSwing%21%2BCzyli%2Bpara%2Bna%2Bparze/",
+    "url": "https://www.kupbilecik.pl/imprezy/202301/%C5%81%C3%B3d%C5%BA/Impro+Swing%21+Czyli+para+na+parze/",
     "image": "assets/images/events/impro-swing.webp",
     "active": true
   },
@@ -934,7 +1114,7 @@
     "time": "16:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202302/%C5%81%C3%B3d%C5%BA/Wymy%C5%9Blanka/",
     "image": "assets/images/events/wymyslanka.webp",
     "active": true
   },
@@ -946,7 +1126,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202303/%C5%81%C3%B3d%C5%BA/Peron%2C+czyli+tam+i+z+powrotem/",
     "image": "assets/images/events/peron.webp",
     "active": true
   },
@@ -958,7 +1138,7 @@
     "time": "19:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202305/%C5%81%C3%B3d%C5%BA/Impro+Atak/",
     "image": "assets/images/events/impro-atak.webp",
     "active": true
   },
@@ -970,7 +1150,7 @@
     "time": "19:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197897/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -982,7 +1162,7 @@
     "time": "20:00",
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202764/Wroc%C5%82aw/Komedia+z+Ikr%C4%85/",
     "image": "assets/images/events/jesiotr-theofish.webp",
     "active": true
   },
@@ -994,7 +1174,7 @@
     "time": "21:00",
     "venue": "Lastriko",
     "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/197898/Krak%C3%B3w/Miejsce+Komedii/",
     "image": "assets/images/events/miejsce-komedii.webp",
     "active": true
   },
@@ -1006,7 +1186,7 @@
     "time": "14:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189581/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty-impro.webp",
     "active": true
   },
@@ -1018,7 +1198,7 @@
     "time": "16:00",
     "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
     "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/189617/Gda%C5%84sk/EPICkie+Warsztaty+Improwizacyjne/",
     "image": "assets/images/events/epickie-warsztaty.webp",
     "active": true
   },
@@ -1030,285 +1210,8 @@
     "time": "20:00",
     "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
     "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
+    "url": "https://www.kupbilecik.pl/imprezy/202329/%C5%81%C3%B3d%C5%BA/Gangsterskie+porachunki/",
     "image": "assets/images/events/gangsterskie-porachunki.webp",
     "active": true
   },
-  {
-    "id": "wymyslanka-2026-06-14-16-00-lodz",
-    "title": "Wymyślanka",
-    "subtitle": "Bajka improwizowana (nie tylko) dla dzieci",
-    "date": "2026-06-14",
-    "time": "16:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/wymyslanka.webp",
-    "active": true
-  },
-  {
-    "id": "epickie-warsztaty-improwizacyjne-2026-06-18-18-00-gdansk",
-    "title": "EPICkie Warsztaty Improwizacyjne",
-    "subtitle": "EPICkie Warsztaty Improwizacyjne: Impro-Flow Płynna Komunikacja Bez Scenariusza",
-    "date": "2026-06-18",
-    "time": "18:00",
-    "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
-    "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/epickie-warsztaty-improwizowane.webp",
-    "active": true
-  },
-  {
-    "id": "czerwcowy-spektakl-improwizowany-2026-06-19-19-00-katowice",
-    "title": "Czerwcowy Spektakl Improwizowany",
-    "subtitle": "Czerwcowy Spektakl Improwizowany",
-    "date": "2026-06-19",
-    "time": "19:00",
-    "venue": "Teatr Żelazny",
-    "city": "Katowice",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/wiosenny-spektakl.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-19-19-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Kochaj albo rzuć! | Komediowe Show Improwizowane",
-    "date": "2026-06-19",
-    "time": "19:00",
-    "venue": "Lastriko",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "komedia-z-ikra-2026-06-19-20-00-wroclaw",
-    "title": "Komedia z Ikrą",
-    "subtitle": "Dobrze tylko na zdjęciu - komedia improwizowana",
-    "date": "2026-06-19",
-    "time": "20:00",
-    "venue": "Klub Wędrówki",
-    "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
-    "active": true
-  },
-  {
-    "id": "lokatorzy-z-zaswiatow-2026-06-19-20-00-lodz",
-    "title": "Lokatorzy z Zaświatów",
-    "subtitle": "Improwizowana komedia spirytystyczna",
-    "date": "2026-06-19",
-    "time": "20:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/imprezy/202331/%C5%81%C3%B3d%C5%BA/Lokatorzy%2Bz%2BZa%C5%9Bwiat%C3%B3w/",
-    "image": "assets/images/events/lokatorzy-z-zaswiatow.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-20-19-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Strzała Amora | Komediowe Show Improwizowane",
-    "date": "2026-06-20",
-    "time": "19:00",
-    "venue": "Klub Buda",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-20-20-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Strzała Amora | Komediowe Show Improwizowane",
-    "date": "2026-06-20",
-    "time": "20:00",
-    "venue": "Klub Buda",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "kryminal-improwizowany-2026-06-20-20-00-lodz",
-    "title": "Kryminał Improwizowany",
-    "subtitle": "Spektakl Teatru Komedii Impro w Łodzi",
-    "date": "2026-06-20",
-    "time": "20:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/improkryminal.webp",
-    "active": true
-  },
-  {
-    "id": "wymyslanka-2026-06-21-16-00-lodz",
-    "title": "Wymyślanka",
-    "subtitle": "Bajka improwizowana (nie tylko) dla dzieci",
-    "date": "2026-06-21",
-    "time": "16:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/wymyslanka.webp",
-    "active": true
-  },
-  {
-    "id": "michal-leja-z-kartki-2026-06-21-18-00-krakow",
-    "title": "Michał Leja \"Z kartki\"",
-    "subtitle": "Michał Leja prezentuje: Z KARTKI #41",
-    "date": "2026-06-21",
-    "time": "18:00",
-    "venue": "Klub Zaścianek",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/z-kartki.webp",
-    "active": true,
-    "sold_out": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-26-19-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "nieMała rozGrywka | Komediowe Show Improwizowane",
-    "date": "2026-06-26",
-    "time": "19:00",
-    "venue": "Lastriko",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "impro-swing-czyli-para-na-parze-2026-06-26-20-00-lodz",
-    "title": "Impro Swing! Czyli para na parze",
-    "subtitle": "Spektakl Teatru Komedii Impro w Łodzi",
-    "date": "2026-06-26",
-    "time": "20:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/impro-swing.webp",
-    "active": true
-  },
-  {
-    "id": "epickie-warsztaty-improwizacyjne-2026-06-27-14-00-gdansk",
-    "title": "EPICkie Warsztaty Improwizacyjne",
-    "subtitle": "EPICkie Warsztaty Improwizacji: Od Podstaw do Sceny",
-    "date": "2026-06-27",
-    "time": "14:00",
-    "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
-    "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/epickie-warsztaty-impro.webp",
-    "active": true
-  },
-  {
-    "id": "epickie-warsztaty-improwizacyjne-2026-06-27-16-00-gdansk",
-    "title": "EPICkie Warsztaty Improwizacyjne",
-    "subtitle": "EPICkie Warsztaty Improwizacji dla Początkujących: Wybuchnij śmiechem!",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "venue": "Technikum i Liceum TEB (VI piętro, Sala 609A)",
-    "city": "Gdańsk",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/epickie-warsztaty.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-27-18-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Twój problem - Nasza głowa! | Komediowe Show Improwizowane",
-    "date": "2026-06-27",
-    "time": "18:00",
-    "venue": "Klub Buda",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-06-27-20-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Twój problem - Nasza głowa! | Komediowe Show Improwizowane",
-    "date": "2026-06-27",
-    "time": "20:00",
-    "venue": "Klub Buda",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "hotelove-story-komedia-romantyczna-2026-06-27-20-00-lodz",
-    "title": "HOTéLOVE Story - komedia romantyczna",
-    "subtitle": "Spektakl improwizowany Teatru Komedii Impro w Łodzi",
-    "date": "2026-06-27",
-    "time": "20:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/hotelove-story.webp",
-    "active": true
-  },
-  {
-    "id": "wymyslanka-2026-06-28-16-00-lodz",
-    "title": "Wymyślanka",
-    "subtitle": "Bajka improwizowana (nie tylko) dla dzieci",
-    "date": "2026-06-28",
-    "time": "16:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/wymyslanka.webp",
-    "active": true
-  },
-  {
-    "id": "impro-kamera-akcja-2026-06-28-19-00-lodz",
-    "title": "IMPRO! Kamera... akcja!",
-    "subtitle": "Widzowie przychodzą do teatru, żeby znaleźć się... w kinie",
-    "date": "2026-06-28",
-    "time": "19:00",
-    "venue": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
-    "city": "Łódź",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/impro-kamera-akcja.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-07-03-19-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "Kochaj albo rzuć! | Komediowe Show Improwizowane",
-    "date": "2026-07-03",
-    "time": "19:00",
-    "venue": "Lastriko",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "miejsce-komedii-2026-07-10-19-00-krakow",
-    "title": "Miejsce Komedii",
-    "subtitle": "nieMała rozGrywka | Komediowe Show Improwizowane",
-    "date": "2026-07-10",
-    "time": "19:00",
-    "venue": "Lastriko",
-    "city": "Kraków",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/miejsce-komedii.webp",
-    "active": true
-  },
-  {
-    "id": "grupa-ad-hoc-2026-09-13-17-00-warszawa",
-    "title": "Grupa AD HOC",
-    "subtitle": "\"Wieczór Komedii Improwizowanej\"",
-    "date": "2026-09-13",
-    "time": "17:00",
-    "venue": "Terminal Kultury Gocław",
-    "city": "Warszawa",
-    "url": "https://www.kupbilecik.pl/impro/",
-    "image": "assets/images/events/ad-hoc.webp",
-    "active": true
-  }
 ]

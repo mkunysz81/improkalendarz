@@ -549,7 +549,7 @@
     "time": "19:00",
     "venue": "Czeski Film",
     "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/202922/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
+    "url": "https://bil.et/zapytani/",
     "image": "assets/images/events/zapytani.webp",
     "active": true
   },
@@ -852,6 +852,18 @@
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/204611/Wroc%C5%82aw/Wassup+Impro/",
     "image": "assets/images/events/impro-kalendarz.png",
+    "active": true
+  },
+  {
+    "id": "zazarci-komedia-improwizowana-2026-05-28-19-00-wroclaw",
+    "title": "ZaŻarci - komedia improwizowana",
+    "subtitle": "ZaPytani - komedia inspirowana Waszymi pytaniami",
+    "date": "2026-05-28",
+    "time": "19:00",
+    "venue": "Czeski Film, ul. Kiełbaśnicza 2",
+    "city": "Wrocław",
+    "url": "https://bil.et/zapytani/",
+    "image": "assets/images/events/zapytani.webp",
     "active": true
   },
   {

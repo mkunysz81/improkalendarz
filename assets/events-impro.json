@@ -69,7 +69,7 @@
     "venue": "Baza",
     "city": "Olsztyn",
     "url": "https://www.kupbilecik.pl/imprezy/203214/Olsztyn/Ireneusz%2BKrosny/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/ireneusz-krosny.webp",
     "active": true
   },
   {
@@ -105,7 +105,7 @@
     "venue": "Klub Pod Jaszczurami",
     "city": "Kraków",
     "url": "https://www.kupbilecik.pl/imprezy/206979/Krak%C3%B3w/Projekt%2BX%2B_%2BBez%2BTrzymanki/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/projekt-x.webp",
     "active": true
   },
   {
@@ -141,7 +141,7 @@
     "venue": "Kino za Rogiem Café - Piętro za Rogiem",
     "city": "Rzeszów",
     "url": "https://www.kupbilecik.pl/imprezy/205448/Rzesz%C3%B3w/Grupa%2BAnyway/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/grupa-anyway.webp",
     "active": true
   },
   {
@@ -153,7 +153,7 @@
     "venue": "Arcade Bee",
     "city": "Wrocław",
     "url": "https://app.evently.pl/events/14016-zapraszamy-swietujemy-urodziny-zazartych",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/urodziny-www.jpg",
     "active": true
   },
   {
@@ -213,7 +213,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/202764/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
-    "image": "assets/images/events/jesiotr-theofish.webp",
+    "image": "assets/images/events/komedia-z-ikra-krotkie-formy.webp",
     "active": true
   },
   {
@@ -237,7 +237,7 @@
     "venue": "Teatr Piccolo",
     "city": "Łódź",
     "url": "https://www.kupbilecik.pl/imprezy/205672/%C5%81%C3%B3d%C5%BA/NYGARD%2Bstudio/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/nygard-studio.webp",
     "active": true
   },
   {
@@ -373,7 +373,7 @@
     "venue": "Dziady i Koktajle",
     "city": "Wrocław",
     "url": "https://app.evently.pl/events/14018-zastarzy-komedia-improwizowana-tekstami-rodzicow",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/zastarzy-www.jpg",
     "active": true
   },
   {
@@ -385,7 +385,7 @@
     "venue": "Dom Zarazy",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/imprezy/206740/Gda%C5%84sk/Dr%2BChaos%2B-%2Bimprowizowany%2Bdramat%2Bmedyczny/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/dr-chaos.webp",
     "active": true
   },
   {
@@ -421,7 +421,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/202765/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
-    "image": "assets/images/events/maturalne-lanie-wody-jesiotr.webp",
+    "image": "assets/images/events/komedia-z-ikra-dobrze-tylko-na-sdjeciu.webp",
     "active": true
   },
   {
@@ -457,7 +457,7 @@
     "venue": "Dwór Artusa",
     "city": "Toruń",
     "url": "https://www.kupbilecik.pl/imprezy/204999/Toru%C5%84/Hive%2BMind/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/hive-mind.webp",
     "active": true
   },
   {
@@ -518,7 +518,7 @@
     "venue": "Pub 107",
     "city": "Gdańsk",
     "url": "https://www.kupbilecik.pl/imprezy/207335/Gda%C5%84sk/No%2Bi%2BFajnie%2B-%2BTeatr%2BImpro/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/no-i-fajnie-tinder.webp",
     "active": true
   },
   {
@@ -566,7 +566,7 @@
     "venue": "Klub Wędrówki",
     "city": "Wrocław",
     "url": "https://www.kupbilecik.pl/imprezy/206124/Wroc%C5%82aw/Komedia%2Bz%2BIkr%C4%85/",
-    "image": "assets/images/events/impro-kalendarz.png",
+    "image": "assets/images/events/komedia-z-ikra-pala-z-zachowania.webp",
     "active": true
   },
   {
@@ -676,7 +676,7 @@
     "venue": "Arcade Bee",
     "city": "Wrocław",
     "url": "https://app.evently.pl/events/14019-zaimprezowane-komedia-inspirowana-imprezami",
-    "image": "assets/images/events/zazarci-zaimprezowane.jpg",
+    "image": "assets/images/events/zaimprezowane-www.jpg",
     "active": true
   }
 ]

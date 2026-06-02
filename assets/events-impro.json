@@ -522,18 +522,6 @@
     "active": true
   },
   {
-    "id": "zazarci-komedia-improwizowana-2026-06-24-19-00-wrocaw",
-    "title": "ZaŻarci - komedia improwizowana",
-    "subtitle": "",
-    "date": "2026-06-24",
-    "time": "19:00",
-    "venue": "Arcade Bee",
-    "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/207334/Wroc%C5%82aw/Za%C5%BBarci%2B-%2Bkomedia%2Bimpro%C2%ADwizo%C2%ADwana/",
-    "image": "assets/images/events/impro-kalendarz.png",
-    "active": true
-  },
-  {
     "id": "leszek-ludwicki-instruktor-impro-2026-06-24-19-07-gdansk",
     "title": "Leszek Ludwicki - Instruktor Impro",
     "subtitle": "Pokaz powarsztatowy - formy pół-długie P4",
@@ -668,10 +656,10 @@
     "active": true
   },
   {
-    "id": "zazarci-komedia-improwizowana-2026-07-08-19-00-wroclaw",
+    "id": "zazarci-komedia-improwizowana-2026-06-24-19-00-wroclaw",
     "title": "ZaŻarci - komedia improwizowana",
     "subtitle": "ZaImprezowane - komedia inspirowana imprezami",
-    "date": "2026-07-08",
+    "date": "2026-06-24",
     "time": "19:00",
     "venue": "Arcade Bee",
     "city": "Wrocław",

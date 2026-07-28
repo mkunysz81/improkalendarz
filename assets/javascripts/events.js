@@ -3,6 +3,7 @@ const EVENTS_JSON_URL = "assets/events-impro.json";
 const cityFilter = document.getElementById("cityFilter");
 const eventsList = document.getElementById("eventsList");
 const eventsEmpty = document.getElementById("eventsEmpty");
+const fixedCity = eventsList?.dataset.city || "";
 
 let allEvents = [];
 
@@ -123,6 +124,11 @@ function renderEvents(events) {
 }
 
 function filterEvents() {
+  if (fixedCity) {
+    renderEvents(sortEvents(allEvents.filter(event => event.city === fixedCity)));
+    return;
+  }
+
   const selectedCity = cityFilter.value;
 
   const filtered = selectedCity === "all"
@@ -150,10 +156,14 @@ async function initEvents() {
       return event.active !== false && isTodayOrFutureEvent(event);
     });
 
-    renderCityOptions(allEvents);
-    renderEvents(sortEvents(allEvents));
+    if (fixedCity) {
+      renderEvents(sortEvents(allEvents.filter(event => event.city === fixedCity)));
+    } else {
+      renderCityOptions(allEvents);
+      renderEvents(sortEvents(allEvents));
+    }
 
-    cityFilter.addEventListener("change", filterEvents);
+    cityFilter?.addEventListener("change", filterEvents);
   } catch (error) {
     console.error("Błąd wczytywania wydarzeń:", error);
     eventsList.innerHTML = `

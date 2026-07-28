@@ -672,18 +672,6 @@
     "active": true
   },
   {
-    "id": "zazarci-komedia-improwizowana-zar-tropikow-komedia-inspirowana-podrozami-2026-07-23-19-00-wrocaw",
-    "title": "ZaŻarci - komedia impro­wizo­wana",
-    "subtitle": "Żar Tropików - komedia inspirowana podróżami",
-    "date": "2026-07-23",
-    "time": "19:00",
-    "venue": "Dziady i Koktajle",
-    "city": "Wrocław",
-    "url": "https://www.kupbilecik.pl/imprezy/209984/Wroc%C5%82aw/Za%C5%BBarci+-+komedia+impro%C2%ADwizo%C2%ADwana/",
-    "image": "assets/images/events/zazarci-komedia-improwizowana-zar-tropikow-komedia-inspirowana-podrozami.webp",
-    "active": true
-  },
-  {
     "id": "miejsce-komedii-ze-co-ja-nie-dam-rady-komediowe-show-improwizowane-2026-07-24-19-00-krakow",
     "title": "Miejsce Komedii",
     "subtitle": "Że co, ja nie dam rady! | Komediowe Show Improwizowane",
@@ -1606,6 +1594,19 @@
     "url": "https://www.kupbilecik.pl/imprezy/202054/Warszawa/Grupa+AD+HOC/",
     "image": "assets/images/events/grupa-ad-hoc-wieczor-komedii-improwizowanej.webp",
     "active": true
+  },
+  {
+    "id": "zapierdziel-komedia-inspirowana-przygodami-z-pracy-2026-09-17-19-00-wroclaw",
+    "title": "ZaPierdziel - komedia inspirowana przygodami z pracy",
+    "subtitle": "🍌 Zapraszamy Was na Owocowy Czwartek, gdzie poznacie owoce naszej pracy!",
+    "date": "2026-09-17",
+    "time": "19:00",
+    "venue": "Dziady i Koktajle, Jatki 3/4",
+    "city": "Wrocław",
+    "url": "https://app.evently.pl/events/14490-zapierdziel-komedia-inspirowana-przygodami-z-pracy",
+    "image": "assets/images/promo/zapierdziel-www.jpg",
+    "active": true,
+    "endTime": "20:45"
   },
   {
     "id": "miejsce-komedii-ze-co-ja-nie-dam-rady-komediowe-show-improwizowane-2026-09-18-19-00-krakow",

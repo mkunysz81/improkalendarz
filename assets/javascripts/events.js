@@ -85,6 +85,8 @@ function renderEvents(events) {
     const venue = escapeHtml(event.venue || "");
     const city = escapeHtml(event.city || "");
     const time = escapeHtml(event.time || "");
+    const endTime = escapeHtml(event.endTime || "");
+    const timeLabel = endTime ? `${time}–${endTime}` : time;
     const url = escapeHtml(event.url || "#");
     const image = event.image ? escapeHtml(event.image) : "";
     const soldOut = event.sold_out === true;
@@ -101,7 +103,7 @@ function renderEvents(events) {
           <div class="event-card__content">
             <div class="event-card__meta">
               <span>${formatDate(event.date)}</span>
-              ${time ? `<span>• ${time}</span>` : ""}
+              ${timeLabel ? `<span>• ${timeLabel}</span>` : ""}
             </div>
 
             <h3 class="event-card__title">${title}</h3>
